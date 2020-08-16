@@ -7,7 +7,7 @@
       "pageUrl": "https://gtlawhub.sharepoint.com/sites/developersite/Lists/SPFx%20Extensions/AllItems.aspx",
       "customActions": {
         "350c9584-2da3-4f6c-96e5-8f22791cf1f8": {
-          "location": "ClientSideExtension.ListViewCommandSet.ContextMenu",
+          "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
           "properties": {
             "sampleTextOne": "One item is selected in the list",
             "sampleTextTwo": "This command is always visible."
